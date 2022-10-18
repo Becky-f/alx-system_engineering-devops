@@ -1,3 +1,1 @@
-#!/bin/bash
-
-5-execute 
+6-multiple_permissions
